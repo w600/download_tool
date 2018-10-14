@@ -1,3 +1,7 @@
+
+
+**`本工具不再更新，请移步` https://github.com/w600/wm_tools `进行替换。`**
+
 w600_download_tool 是一个基于 xmodem 通信协议的串口工具，可以实现 w600 的固件烧录，目前仅支持 windows 平台。
 
 运行和编译需依赖 .Net 4.0 平台https://www.microsoft.com/en-us/download/details.aspx?id=17718
